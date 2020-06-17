@@ -1,0 +1,5 @@
+accuracy: 77.28
+precision: 84.92
+recall: 43.67
+auc: 0.469
+auprc: 0.700
